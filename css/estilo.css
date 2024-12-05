@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.topo {
+    background: #cf010b;
+    text-align: center;
+    height: 48px;
+}
+
+.main {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.area {
+    width: 100%;
+    padding: 0 20px 50px 20px;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    padding: 20px;
+    background-color: #a30109;
+    box-sizing: border-box;
+}
+
+.area h2, .area h3, .area p {
+    padding: 0 12px;
+}
+
+.area p {
+    line-height: 25px;
+    margin: 12px 0;
+}
+
+.area h2 {
+    margin: 15px 0;
+}
+
+.area h3 {
+    margin: 12px 0;
+}
+
+.link li {
+    display: inline;
+    padding: 0 12px;
+}
+
+.link li a {
+    color: #fff;
+    font-size: 18px;
+}
+
+.links{
+    padding: 14px;
+}
+
+#Contato ul{
+    margin: 0 12px;
+}
+
+#Contato ul, #Contato ul li {
+    display: inline;
+}
+
+#Contato ul li a {
+    background: #cf010b;
+    color: #fff;
+    padding: 10px;
+}
+
+#Contato p {
+    height: 40px;
+}
